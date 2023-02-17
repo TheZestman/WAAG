@@ -1,0 +1,255 @@
+/*final project style page*/
+
+
+/* home page style*/
+ul, #topper {
+  list-style-type:none;
+  display:inline;
+}
+
+a {
+  color:black; 
+}
+a:hover{
+	color:#555;
+}
+
+li {
+  display:inline;
+  padding:10px; 
+}
+body {
+  font-family: Sans-Serif;
+  line-height:1.4;
+  text-align:center;
+}
+p{
+	
+}
+.link{
+	color:red;
+}
+#mission{
+	font-size: 25px;
+	color:#ff5050;
+
+}
+.intro{
+	color:black;
+	background-color:white;
+	font-size: 25px;
+	 margin: auto;
+  border-width:5px;
+  border-color:#ff5050;
+  border-style:solid;
+}
+.mainnav {
+  text-align:right;
+}
+#news-topper{
+	text-align:center;
+	color:#ff5050;
+}
+.top-section {
+  background: gray;
+  color:black ;
+  width:50%;
+  height:50%;
+  margin: auto;
+  border-width:5px;
+  border-color:#ff5050;
+  border-style:solid;
+  padding: 25px;
+  font-size:25px;
+}
+#reviews-topper{
+	text-align:center;
+		color:#ff5050;
+
+}
+.bottom-section {
+  background: gray;
+  color: black;
+  width:50%;
+  height:50%;
+  margin: auto;
+  margin-bottom:20px;
+  border-width:5px;
+  border-color:#ff5050;
+  border-style:solid;
+  padding: 25px 15px;
+  font-size: 25px;
+}
+.waag{
+	color:#ff5050;
+	font-size: 60px;
+}
+.topper{
+		color:white;
+		text-align:left;
+		background:#ff5050;
+
+}
+footer{
+	clear:both;
+	background-color:#ff5050;
+	padding: 50px 0;
+	text-align:center;
+}
+/* Reivew/News Page Style Below*/
+#review-header{
+	color:#ff5050;
+	text-align:center;
+}
+#news-header{
+	color:#ff5050;
+	text-align:center;
+}
+#news-one{
+	 background: gray;
+  color:black ;
+  width:50%;
+  height:50%;
+  margin: auto;
+  margin-bottom:20px;
+  border-width:5px;
+  border-color:#ff5050;
+  border-style:solid;
+  padding: 50px 10px;
+  font-size:25px;
+}
+#review-one{
+	 background: gray;
+  color:black ;
+  width:50%;
+  height:50%;
+  margin: auto;
+    margin-bottom:20px;
+  border-width:5px;
+  border-color:#ff5050;
+  border-style:solid;
+  padding: 50px 15px;
+  font-size:25px;
+}
+
+/*GOW News Style */
+
+#gow-news-header{
+	font-size:30px;
+	color:#ff5050;
+	text-align:center;
+}
+#gow-news {
+	text-align:center;
+  background: gray;
+  color: black;
+  width:50%;
+  height:50%;
+  margin-left: 325px;
+   margin-bottom:20px;
+
+  border-width:5px;
+  border-color:#ff5050;
+  border-style:solid;
+  padding:10px
+}
+
+
+/*ER review Style*/
+#overview{
+	font-size:30px;
+	color:#ff5050;
+}
+#er-overview{
+	font-size:20px;
+	background: gray;
+	color: black;
+	border-width:5px;
+  border-color:#ff5050;
+  border-style:solid;
+		margin:20px 10px;
+}
+#er-header{
+	color:#ff5050;
+	font-size:50px;
+	text-align:center;
+}
+#er-intro{
+	font-size:20px;
+	background: gray;
+	color: black;
+	border-width:5px;
+  border-color:#ff5050;
+  border-style:solid;
+		margin:20px 10px;
+
+}
+#story{ 
+		font-size:30px;
+		color:#ff5050;
+
+}
+#er-story{
+	font-size:20px;
+	background: gray;
+	color: black;
+	border-width:5px;
+  border-color:#ff5050;
+  border-style:solid;
+	margin:20px 10px;
+}
+#gameplay{
+	font-size:30px;
+		color:#ff5050;
+}
+#er-gameplay{
+	font-size:20px;
+	background: gray;
+	color: black;
+	border-width:5px;
+  border-color:#ff5050;
+  border-style:solid;
+	margin:20px 10px;
+}
+#audio{
+	font-size:30px;
+		color:#ff5050;
+}
+#er-audio{
+	font-size:20px;
+	background: gray;
+	color: black;
+	border-width:5px;
+  border-color:#ff5050;
+  border-style:solid;
+  	margin:20px 10px;
+
+}
+#art{
+	font-size:30px;
+		color:#ff5050;
+}
+#er-art{
+	font-size:20px;
+	background: gray;
+	color: black;
+	border-width:5px;
+  border-color:#ff5050;
+  border-style:solid;
+  	margin:20px 10px;
+
+}
+#verdict{
+	font-size:30px;
+		color:#ff5050;
+}
+#er-verdict{
+	font-size:20px;
+	background: gray;
+	color: black;
+	border-width:5px;
+  border-color:#ff5050;
+  border-style:solid;
+  	margin:20px 10px;
+
+}
